@@ -3,6 +3,7 @@ Scatch – Admin Product Management & Shop Display
 Scatch is a Node.js + Express-based web application that allows an admin to create products with images and styling, and displays those products dynamically on a shop page. Products are stored in MongoDB and rendered using EJS templates.
 
 Setup Instructions
+
   1️ Clone the repository
   
     ->git clone <your-repo-url>
